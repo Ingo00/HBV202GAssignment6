@@ -1,3 +1,5 @@
+
+
 package is.hi.hbv202g.ass6;
 
 public class CarOwner {
@@ -14,9 +16,9 @@ public class CarOwner {
     String getName() {
         return theName;
     }
-    
-    String getNameOfCar() {
-        return theOwnedCar.name;
-    }
+
+    //String getNameOfCar() {
+      //  return theOwnedCar.name;
+    //}
 
 }
